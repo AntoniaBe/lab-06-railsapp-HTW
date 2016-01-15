@@ -16,5 +16,5 @@ FactoryGirl.define do
     color 'caramel-brown'
     size  'XXS'
     price '0.33'
-  end
+end
 end
